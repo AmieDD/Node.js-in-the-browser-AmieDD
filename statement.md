@@ -1,9 +1,12 @@
 # Welcome!
 
 This Node.js template lets you get started quickly with a simple one-page playground.
+No need to download anything!
+AmieDD www.amiedd.com
+code, cosplay, games
 
 ```javascript runnable
-console.log('Hello World!');
+console.log('Hello Earthlings!');
 ```
 
 # Advanced usage
